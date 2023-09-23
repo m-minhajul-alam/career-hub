@@ -12,7 +12,8 @@
         "job_description": "Join our team of talented engineers at Google and work on cutting-edge technologies.",
         "job_responsibility": "Develop and maintain software applications, collaborate with cross-functional teams, and more.",
         "educational_requirements": "Bachelor's degree in Computer Science or related field",
-        "experiences": "2+ years of software development experience"
+        "experiences": "2+ years of software development experience",
+        "remote_or_onsite": "Onsite"
     },
     {
         "id": 2,
@@ -27,7 +28,8 @@
         "job_description": "Join Netflix's data analysis team and help us make data-driven decisions.",
         "job_responsibility": "Analyze data, create reports, and provide insights to support business strategies.",
         "educational_requirements": "Bachelor's degree in Data Science, Statistics, or a related field",
-        "experiences": "1+ years of data analysis experience"
+        "experiences": "1+ years of data analysis experience",
+        "remote_or_onsite": "Remote"
     },
     {
         "id": 3,
@@ -42,7 +44,8 @@
         "job_description": "Join the Tesla team and help shape the future of sustainable transportation.",
         "job_responsibility": "Design and analyze mechanical systems, collaborate on product development, and more.",
         "educational_requirements": "Bachelor's degree in Mechanical Engineering or a related field",
-        "experiences": "3+ years of mechanical engineering experience"
+        "experiences": "3+ years of mechanical engineering experience",
+        "remote_or_onsite": "Onsite"
     },
     {
         "id": 4,
@@ -57,7 +60,8 @@
         "job_description": "Join Airbnb and help create memorable experiences for travelers around the world.",
         "job_responsibility": "Design user interfaces, conduct user research, and collaborate with cross-functional teams.",
         "educational_requirements": "Bachelor's degree in Design or a related field",
-        "experiences": "2+ years of UX design experience"
+        "experiences": "2+ years of UX design experience",
+        "remote_or_onsite": "Remote"
     },
     {
         "id": 5,
@@ -72,6 +76,23 @@
         "job_description": "Join Career-Hub and manage our talented team of professionals.",
         "job_responsibility": "Recruit, onboard, and support employees, oversee HR operations, and more.",
         "educational_requirements": "Bachelor's degree in Human Resources or related field",
-        "experiences": "4+ years of HR management experience"
+        "experiences": "4+ years of HR management experience",
+        "remote_or_onsite": "Remote"
+    },
+    {
+        "id": 6,
+        "company_logo": "https://i.ibb.co/h9GVQY4/google.png",
+        "job_title": "Data Scientist",
+        "company_name": "Google LLC",
+        "job_type": "Full-time",
+        "location": "Remote",
+        "salary_range": "$110,000 - $160,000 per year",
+        "phone": "+1 (123) 456-7890",
+        "email": "jobs@google.com",
+        "job_description": "Join our data science team at Google and work on exciting projects.",
+        "job_responsibility": "Analyze data, build machine learning models, and drive data-driven decision-making.",
+        "educational_requirements": "Master's or Ph.D. in Data Science or related field",
+        "experiences": "3+ years of data science experience",
+        "remote_or_onsite": "Onsite"
     }
 ]
